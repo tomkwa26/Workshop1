@@ -14,7 +14,7 @@ Będą one w następującym formacie:
 
 Aplikacja musi posiadać możliwość wpisywania komend i wykonywania odpowiednich operacji w zależności od komendy, która została wpisana.
 
-> ### Aplikacja musi posiadać następujące funkcje:
+Aplikacja musi posiadać następujące funkcje:
 
 > - wyświetlanie wszystkich dostępnych zadań,
 > - wyjście z aplikacji,
