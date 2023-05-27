@@ -81,13 +81,13 @@ Następnie wyślij zmiany za pomocą polecenia:
 
 W pliku **pom.xml** dodaj zaleźność do **Apache Commons Lang**:
 
-<dependencies>
-    <dependency>
-        <groupId>org.apache.commons</groupId>
-        <artifactId>commons-lang3</artifactId>
-        <version>3.9</version>
-    </dependency>
-</dependencies>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.9</version>
+        </dependency>
+    </dependencies>
 
 ### Zasoby
 Do tego tematu, została przygotowana paczka z wszystkimi zasobami potrzebnymi do stworzenia projektu Tasks:
